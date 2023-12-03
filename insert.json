@@ -1,0 +1,688 @@
+{
+    "entrenador": [
+    {"nombre": "Pep Guardiola",  "equipo": "Manchester City"}, {"nombre": "Jurgen Klopp",  "equipo": "Liverpool"}, {"nombre": "Mauricio Pochettino",  "equipo": "Chelsea"}, {"nombre": "Erik ten Hag",  "equipo": "Manchester United"}, {"nombre": "Mikel Arteta",  "equipo": "Arsenal"}, {"nombre": "Ange Postecoglou",  "equipo": "Tottenham Hotspur"}, {"nombre": "Andoni Iraola",  "equipo": "Bournemouth"}, {"nombre": "Sean Dyche",  "equipo": "Everton"}, {"nombre": "Paul Heckingbottom",  "equipo": "Sheffield United"}, {"nombre": "Vincent Kompany",  "equipo": "Burnley"}, {"nombre": "Gary O'Neil",  "equipo": "Wolves"}, {"nombre": "Roberto De Zerbi",  "equipo": "Brighton"}, {"nombre": "David Moyes",  "equipo": "West Ham"}, {"nombre": "Marco Silva",  "equipo": "Fulham"}, {"nombre": "Thomas Frank",  "equipo": "Brentford"}, {"nombre": "Unai Emery",  "equipo": "Aston Villa"}, {"nombre": "Steve Cooper",  "equipo": "Nottingham Forest"}, {"nombre": "Rob Edwards",  "equipo": "Luton"}, {"nombre": "Eddie Howe",  "equipo": "Newcastle"}, {"nombre": "Roy Hodgson",  "equipo": "Crystal Palace"}
+    ],
+    
+    "jugadores": [
+        {
+            "dorsal": 31,
+            "tipo": "Arquero",
+            "nombre": "Ederson",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 18,
+            "tipo": "Arquero",
+            "nombre": "Ortega Stefan",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 25,
+            "tipo": "Defensa",
+            "nombre": "Akanji Manuel",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 6,
+            "tipo": "Defensa",
+            "nombre": "Aké Nathan",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 3,
+            "tipo": "Defensa",
+            "nombre": "Dias Ruben",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 24,
+            "tipo": "Defensa",
+            "nombre": "Gvardiol Josko",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 82,
+            "tipo": "Defensa",
+            "nombre": "Lewis Rico",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 5,
+            "tipo": "Defensa",
+            "nombre": "Stones John",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 2,
+            "tipo": "Defensa",
+            "nombre": "Walker Kyle",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 52,
+            "tipo": "Centrocampista",
+            "nombre": "Bobb Oscar",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 17,
+            "tipo": "Centrocampista",
+            "nombre": "De Bruyne Kevin",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 47,
+            "tipo": "Centrocampista",
+            "nombre": "Foden Phil",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 10,
+            "tipo": "Centrocampista",
+            "nombre": "Grealish Jack",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 21,
+            "tipo": "Centrocampista",
+            "nombre": "Gómez Sergio",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 8,
+            "tipo": "Centrocampista",
+            "nombre": "Kovacic Mateo",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 27,
+            "tipo": "Centrocampista",
+            "nombre": "Nunes Matheus",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 4,
+            "tipo": "Centrocampista",
+            "nombre": "Phillips Kalvin",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 16,
+            "tipo": "Centrocampista",
+            "nombre": "Rodri",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 20,
+            "tipo": "Centrocampista",
+            "nombre": "Silva Bernardo",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 11,
+            "tipo": "Delantero",
+            "nombre": "Doku Jeremy",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 9,
+            "tipo": "Delantero",
+            "nombre": "Haaland Erling",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        },
+        {
+            "dorsal": 19,
+            "tipo": "Delantero",
+            "nombre": "Álvarez Julián",
+            "partidos": 0,
+            "goles": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "equipo": "Manchester City"
+        }
+    ],
+    "tabla": [
+    {
+        "position": 1,
+        "equipo": "Arsenal",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0
+    },
+    {
+        "position": 2,
+        "equipo": "Aston Villa",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0
+    },
+    {
+        "position": 3,
+        "equipo": "Bournemouth",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0
+    },
+    {
+        "position": 4,
+        "equipo": "Brentford",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0
+    },
+    {
+        "position": 5,
+        "equipo": "Brighton",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0
+    },
+    {
+        "position": 6,
+        "equipo": "Burnley",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0
+    },
+    {
+        "position": 7,
+        "equipo": "Chelsea",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0
+    },
+    {
+        "position": 8,
+        "equipo": "Crystal Palace",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0
+    },
+    {
+        "position": 9,
+        "equipo": "Everton",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0
+    },
+    {
+        "position": 10,
+        "equipo": "Fulham",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0
+    },
+    {
+        "position": 11,
+        "equipo": "Liverpool",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0
+    },
+    {
+        "position": 12,
+        "equipo": "Luton",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0
+    },
+    {
+        "position": 13,
+        "equipo": "Manchester City",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0  
+    },
+    {
+        "position": 14,
+        "equipo": "Manchester United",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0
+    },
+    {
+        "position": 15,
+        "equipo": "Newcastle",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0  
+    },
+    {
+        "position": 16,
+        "equipo": "Nottingham Forest",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0
+    },
+    {
+        "position": 17,
+        "equipo": "Sheffield United",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0  
+    },
+    {
+        "position": 18,
+        "equipo": "Tottenham",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0
+    },
+    {
+        "position": 19,
+        "equipo": "West Ham",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0  
+    },
+    {
+        "position": 20,
+        "equipo": "Wolves",
+        "PJ": 0,
+        "PG": 0,
+        "PE": 0,
+        "PP": 0,
+        "GF": 0,
+        "GC": 0,
+        "puntos": 0
+    }
+    ],
+    "arbitros": [
+        {
+           "nombre": "Anthony Taylor",
+           "pais": "Inglaterra", 
+           "partidos": 0,
+           "tarjetas": 0
+        },
+        {
+            "nombre": "Michael Oliver",
+            "pais": "Inglaterra",
+            "partidos": 0,
+            "tarjetas": 0
+        },
+        {
+            "nombre": "Robert Jones",
+            "pais": "Inglaterra",
+            "partidos": 0,
+            "tarjetas": 0
+        },
+        {
+            "nombre": "Paul Tierney",
+            "pais": "Inglaterra",
+            "partidos": 0,
+            "tarjetas": 0
+        },
+        {
+            "nombre": "Martin Atkinson",
+            "pais": "Inglaterra",
+            "partidos": 0,
+            "tarjetas": 0
+        },
+        {
+            "nombre": "Stuart Attwell",
+            "pais": "Inglaterra",
+            "partidos": 0,
+            "tarjetas": 0
+        },
+        {
+            "nombre": "Chris Kavanagh",
+            "pais": "Inglaterra",
+            "partidos": 0,
+            "tarjetas": 0
+        },
+        {
+            "nombre": "David Coote",
+            "pais": "Inglaterra",
+            "partidos": 0,
+            "tarjetas": 0
+        },
+        {
+            "nombre": "Andre Marriner",
+            "pais": "Inglaterra",
+            "partidos": 0,
+            "tarjetas": 0
+        },
+        {
+            "nombre": "Jonathan Moss",
+            "pais": "Inglaterra",
+            "partidos": 0,
+            "tarjetas": 0
+        },
+        {
+           "nombre": "Mike Dean",
+           "pais": "Inglaterra", 
+           "partidos": 0,
+           "tarjetas": 0
+        },
+        {
+            "nombre": "Darren England",
+            "pais": "Inglaterra",
+            "partidos": 0,
+            "tarjetas": 0
+        },
+        {
+            "nombre": "Craig Pawson",
+            "pais": "Inglaterra",
+            "partidos": 0,
+            "tarjetas": 0
+        },
+        {
+            "nombre": "Peter Bankes",
+            "pais": "Inglaterra",
+            "partidos": 0,
+            "tarjetas": 0
+        }
+    ],
+    "jornadas":[
+        {
+            "jornada": 1,
+            "partidos": [
+                {
+                    "local": "Arsenal",
+                    "visitante": "Aston Villa",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                },
+                {
+                    "local": "Bournemouth",
+                    "visitante": "Brentford",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                },
+                {
+                    "local": "Brighton",
+                    "visitante": "Burnley",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                },
+                {
+                    "local": "Chelsea",
+                    "visitante": "Crystal Palace",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                },
+                {
+                    "local": "Everton",
+                    "visitante": "Fulham",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                },
+                {
+                    "local": "Luton",
+                    "visitante": "Liverpool",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                },
+                {
+                    "local": "Manchester City",
+                    "visitante": "Manchester United",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                },
+                {
+                    "local": "Newcastle",
+                    "visitante": "Nottingham Forest",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                },
+                {
+                    "local": "Sheffield United",
+                    "visitante": "Tottenham",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                },
+                {
+                    "local": "West Ham",
+                    "visitante": "Wolves",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                }
+            ]
+        },
+        {
+            "jornada":2,
+            "partidos": [
+                {
+                    "local": "Aston Villa",
+                    "visitante": "Arsenal",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                },
+                {
+                    "local": "Brentford",
+                    "visitante": "Bournemouth",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                },
+                {
+                    "local": "Burnley",
+                    "visitante": "Brighton",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                },
+                {
+                    "local": "Crystal Palace",
+                    "visitante": "Chelsea",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                },
+                {
+                    "local": "Fulham",
+                    "visitante": "Everton",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                },
+                {
+                    "local": "Liverpool",
+                    "visitante": "Luton",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                },
+                {
+                    "local": "Manchester United",
+                    "visitante": "Manchester City",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                },
+                {
+                    "local": "Nottingham Forest",
+                    "visitante": "Newcastle",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                },
+                {
+                    "local": "Tottenham",
+                    "visitante": "Sheffield United",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                },
+                {
+                    "local": "Wolves",
+                    "visitante": "West Ham",
+                    "golesLocal": 0,
+                    "golesVisitante": 0,
+                    "arbitro": ""
+                }
+            ]
+        }
+    ]
+}
